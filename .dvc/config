@@ -1,4 +1,4 @@
 [core]
     remote = house-prediction
 ['remote "house-prediction"']
-    url = ../nav-house-price-prediction
+    url = s3://nav-house-price-prediction
