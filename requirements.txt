@@ -8,3 +8,5 @@ fastapi
 joblib
 
 # ML Ops
+dvs
+dvc_s3
